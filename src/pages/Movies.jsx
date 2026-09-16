@@ -105,9 +105,6 @@ function Movies() {
 
         {/* PAGE HEADER */}
         <div className="text-center">
-          <span className="text-xs font-bold tracking-[3px] text-violet-400">
-            MOVIE EXPLORER
-          </span>
 
           <h1 className="mt-4 text-4xl font-black md:text-5xl">
             Explore Movies & Shows
